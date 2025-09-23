@@ -1,0 +1,7 @@
+st = input("Enter your string:")
+upper = st.upper()
+lower = st.lower()
+title = st.title()
+print("A upper string is:" + upper)
+print("A lower string is:" + lower)
+print("A title string is:" + title)

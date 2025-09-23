@@ -1,0 +1,5 @@
+st1 = input("nhập chuỗi ")
+st2 = input("nhập 1 từ cần thay thế:")
+st3 = input("nhập 1 từ để thay thế:")
+st1 = st1.replace(st2,st3)
+print(st1)
